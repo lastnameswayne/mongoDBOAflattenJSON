@@ -1,0 +1,21 @@
+{
+  "data": {
+    "stuff": {
+      "onetype": {
+        "id": 1,
+        "name": "John Doe",
+        "othertype": { "id": 2, "company": "ACME" }
+      }
+    },
+    "otherstuff": {
+      "thing": {
+        "a": 1,
+        "b": true,
+        "c": {
+          "d": 3,
+          "e": "test"
+        }
+      }
+    }
+  }
+}
